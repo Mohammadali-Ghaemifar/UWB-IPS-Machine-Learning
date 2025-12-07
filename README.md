@@ -97,7 +97,6 @@ Techniques:
 ├── Report.pdf # Full Master’s thesis
 ├── Paper.pdf # Extracted research paper
 └── README.md
-
 ---
 
 ## 📌 Citation
