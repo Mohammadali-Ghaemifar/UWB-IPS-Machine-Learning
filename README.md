@@ -43,7 +43,7 @@ Main steps:
 - Stacking and merging multi-anchor CIR measurements
 - Building final **training/testing CSV datasets**
 
-![CIR Sample Input](Results/CIR.jpg)  
+<img src="Results/Results/CIR.jpg" width="500"> 
 **Figure:** Sample CIR data used as the input to the CNN network
 
 
@@ -70,7 +70,7 @@ Output:
 - Binary classification: **LoS / NLoS**
 
 <img src="Results/Proposed_CNN.jpg" width="500"> 
-**Figure:** Proposed novel CNN architecture for LoS/NLoS classification based on UWB CIR signals
+Figure: Proposed novel CNN architecture for LoS/NLoS classification based on UWB CIR signals
 
 
 ---
@@ -95,6 +95,14 @@ Techniques:
 - **Stacked Meta-Learning**
 - **Execution time benchmarking**
 - **Empirical CDF of positioning error**
+
+<p align="center">
+  <img src="Positioning Diagram.png" width="500">
+</p>
+
+<p align="center">
+  <b>Figure:</b> The output of the CNN classifier is fed into the regression network along with tag-to-anchor distance and RSS features to estimate the target position along the X, Y, and Z axes.
+</p>
 
 ---
 
