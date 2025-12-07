@@ -43,7 +43,7 @@ Main steps:
 - Stacking and merging multi-anchor CIR measurements
 - Building final **training/testing CSV datasets**
 
-<img src="Results/Results/CIR.jpg" width="500"> 
+<img src="Results/CIR.jpg" width="500"> 
 **Figure:** Sample CIR data used as the input to the CNN network
 
 
@@ -97,7 +97,7 @@ Techniques:
 - **Empirical CDF of positioning error**
 
 <p align="center">
-  <img src="Positioning Diagram.png" width="500">
+  <img src="Results/Positioning Diagram.png" width="500">
 </p>
 
 <p align="center">
