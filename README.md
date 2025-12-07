@@ -7,6 +7,9 @@ The project focuses on:
 - **Machine learning & ensemble learning for precise position estimation**
 - **Signal preprocessing using Channel Impulse Response (CIR)**
 
+![Difference of NLoS/LoS Conditions](NLOS_LOS.jpg)  
+**Figure:** Difference of NLoS/LoS Conditions
+
 All simulations, dataset preprocessing, CNN training, and ML-based positioning models are included in this repository.
 
 ---
