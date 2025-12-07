@@ -90,6 +90,7 @@ Techniques:
 ---
 
 ## 📂 Repository Structure
+
 ├── requirements.txt
 ├── Create Dataset.py # CIR preprocessing & dataset generation
 ├── CNN_New_Stracture.py # CNN LoS/NLoS classifier
@@ -97,6 +98,7 @@ Techniques:
 ├── Report.pdf # Full Master’s thesis
 ├── Paper.pdf # Extracted research paper
 └── README.md
+
 ---
 
 ## 📌 Citation
