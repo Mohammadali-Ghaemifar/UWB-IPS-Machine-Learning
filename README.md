@@ -92,11 +92,17 @@ Techniques:
 ## 📂 Repository Structure
 
 ├── requirements.txt
+
 ├── Create Dataset.py # CIR preprocessing & dataset generation
+
 ├── CNN_New_Stracture.py # CNN LoS/NLoS classifier
+
 ├── positioning.py # ML & Ensemble-based positioning
+
 ├── Report.pdf # Full Master’s thesis
+
 ├── Paper.pdf # Extracted research paper
+
 └── README.md
 
 ---
