@@ -26,8 +26,6 @@ The proposed CNN achieved over **92% classification accuracy** and significantly
 [Dataset](https://log-a-tec.eu/uwb-ds.html)  
 Due to file size limitations, the raw dataset is not included in this repository.
 
-![CIR Sample Input](Results/CIR.jpg)  
-**Figure:** Sample CIR data used as the input to the CNN network
 
 
 ---
@@ -44,6 +42,10 @@ Main steps:
 - Removing unnecessary columns
 - Stacking and merging multi-anchor CIR measurements
 - Building final **training/testing CSV datasets**
+
+![CIR Sample Input](Results/CIR.jpg)  
+**Figure:** Sample CIR data used as the input to the CNN network
+
 
 ---
 
@@ -66,6 +68,9 @@ Key model structure:
 
 Output:
 - Binary classification: **LoS / NLoS**
+
+![Proposed CNN Architecture](Results/Proposed_CNN.jpg)  
+**Figure:** Proposed novel CNN architecture for LoS/NLoS classification based on UWB CIR signals
 
 
 ---
