@@ -7,9 +7,6 @@ The project focuses on:
 - **Machine learning & ensemble learning for precise position estimation**
 - **Signal preprocessing using Channel Impulse Response (CIR)**
 
-![Difference of NLoS/LoS Conditions](Results/NLOS_LOS.jpg)  
-**Figure:** Difference of NLoS/LoS Conditions
-
 All simulations, dataset preprocessing, CNN training, and ML-based positioning models are included in this repository.
 
 ---
@@ -28,6 +25,10 @@ The proposed CNN achieved over **92% classification accuracy** and significantly
 **Note**: The UWB dataset used in this project is publicly available and can be accessed from the following official source:
 [Dataset](https://log-a-tec.eu/uwb-ds.html)  
 Due to file size limitations, the raw dataset is not included in this repository.
+
+![CIR Sample Input](Results/CIR.jpg)  
+**Figure:** Sample CIR data used as the input to the CNN network
+
 
 ---
 
