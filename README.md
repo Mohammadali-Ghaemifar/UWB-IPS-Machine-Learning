@@ -69,7 +69,7 @@ Key model structure:
 Output:
 - Binary classification: **LoS / NLoS**
 
-![Proposed CNN Architecture](Results/Proposed_CNN.jpg)  
+<img src="Results/Proposed_CNN.jpg" width="500"> 
 **Figure:** Proposed novel CNN architecture for LoS/NLoS classification based on UWB CIR signals
 
 
